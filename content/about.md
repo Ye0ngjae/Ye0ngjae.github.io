@@ -7,62 +7,36 @@ showToc: false
 
 # Profile
 ---
-맹서현 / 2006.02.17
+남영재 / 2006.03.25
 ## Organization
 ---
 - Sunrin Internet High School InfoSec 117th
 - Layer7 Hacking Club
-- KITRI BoB 12th Vulnerability Analysis 
-- cat :flag_kr: CTF team
-- DeadSec CTF team
 
 ## Activity
 ---
-- 선린인터넷고등학교 SW 영재원 (2020.04 ~ 2020.11)
-- 선린인터넷고등학교 SW 영재원 (2021.04 ~ 2021.11)
-- 현대오토에버 화이트해커 양성교육 (2022.07 ~ 2022.11)
-- KITRI BoB 12th Vulnerability Analysis (2023.07 ~ 2024.03)
-- Theori Security Researcher Intern (2024.07 ~ )
+- 서울여자대학교 정보보호영재교육원 8기(2021.03 ~ 2021.12)
+- 서울여자대학교 정보보호영재교육원 9기(2022.03 ~ 2022.12)
+- 개인정보보호위원회 청소년개인정보보호리더 1기(2022.05 ~ 2022.12)
 
-## CTF & Award
+## Award
 ---
 > 2024
-> - 18th, Google CTF Quals
-> - 미래기술연구소 장학생 선정 (₩1,000,000)
-> - 2nd, Hspace Cyberwar pwn (₩80,000)
-> - 6th, DEFCON 2024 Quals (Team Cold Fusion)
-> - 7th, LINE CTF 2024 (Team Cold Fusion)
-> - Whitehat 10, Best of the Best (₩3,000,000)
-> - 1st, Hspace Cyberwar pwn (₩160,000)
-> - 1st, Cyber Apocalypse 2024: Hacker Royale (Team Friendly Maltese Citizens)
+> - 2024 D-Camp 청소년 창업경진대회 최우수상
 
 > 2023
-> - 2nd, 선린 고등해커 페스티벌 2023 (Team 냥코)
-> - 2nd, Dreamhack KAPO, KAIST-POSTECH CTF 2023
-> - 1st, ABB CTF 2023 (₩1,000,000) (Team 냥코대전쟁)
-> - 1st, Cyber Guardians CTF 2023 (Team 냥코대전쟁)
-> - 2nd, WITHCON, Whitehat Contest Junior 2023 (₩4,000,000) (Team 뿡빵띠)
-> - 3rd, WACON, Whitehat Attack Contest Junior 2023 (₩2,000,000) (Team 옆집 서현이 때문에 어느샌가 블랙해커로 타락한 사연)
-> - 4th, YISF CTF 2023 (₩500,000)
-> - 3rd, KOSPO CTF 2023 (₩500,000) (Team cats save the world)
-> - 3rd, CCE, Cyber Conflict Exercise Junior 2023 (₩1,000,000) (Team 가끔씩 툭하고 어셈블리어로 부끄러워하는 옆자리의 서현 군)
-> - 2nd, JBU CTF 2023 (₩100,000) (Team 달)
-> - 8th, Codegate Junior 2023
-> - 1st, 선린 모의해킹방어대회 2023
+> - 선린인터넷고등학교 교내 창의아이디어 경진대회 대상
 
 > 2022
-> - 2nd, 선린 고등해커 페스티벌 2022 (Team Sechack)
-> - 2nd, 현대오토에버 화이트해커 경진대회 2022 (₩1,000,000)
-> - 2nd, Cyber Guardians CTF 2022
-> - 3rd, LOGCON CTF 2022
-> - 4th, Dreamhack Christmas CTF 2022
-> - 5th, Whitehat Contest Junior 2022
-> - 5th, CCE, Cyber Conflict Exercise Junior 2022
-> - 한림장학재단 장학생 선정 (₩1,000,000)
+> - 2022 임베디드 소프트웨어 경진대회 우수상
+> - 서울여자대학교 정보보호영재교육원 정보보안 경진대회 우수상
+> - 선린인터넷고등학교 교내 LogCon CTF 동상
+> - 선린인터넷고등학교 교내 디지털콘텐츠디자인대회 우수상
+> - 선린인터넷고등학교 교내 고등해커 CTF 은상
 
 > 2021
-> - 창의적 산출물 발표회 금상 2021
-> - SW 영재 창작대회 장려상 2021
+> - 2021 인천 학생 해커톤 인천광역시교육감상
 
 > 2020
-> - 창의적 산출물 발표회 우수상 2020
+> - 한세사이버보안고등학교 중학생 정보보안 콘테스트 동상
+> - 2020 학생 창의력 챔피언 대회 은상
