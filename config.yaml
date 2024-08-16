@@ -51,7 +51,7 @@ params:
     enabled: true
     title: "Ye0ngjae"
     subtitle: Sunrin High School 117th
-    imageUrl: "home/profile.jpeg"
+    imageUrl: "home/profile.jpg"
     imageWidth: 280
     imageHeight: auto
     # buttons:
