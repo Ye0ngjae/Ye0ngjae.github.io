@@ -49,7 +49,7 @@ params:
   # Home Page
   profileMode:
     enabled: true
-    title: "msh1307"
+    title: "Ye0ngjae"
     subtitle: Sunrin High School 117th
     imageUrl: "home/macat.jpeg"
     imageWidth: 280
@@ -68,7 +68,7 @@ params:
 
   socialIcons:
     - name: "github"
-      url: "https://github.com/msh1307"
+      url: "https://github.com/Ye0ngjae"
 
   # text search
   fuseOpts:
