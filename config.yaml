@@ -1,6 +1,6 @@
-baseURL: "https://msh1307.kr"
+baseURL: "https://Ye0ngjae.github.io"
 languageCode: en-us
-title: msh1307
+title: Ye0ngjae
 theme: PaperMod
 
 taxonomies:
@@ -51,7 +51,7 @@ params:
     enabled: true
     title: "Ye0ngjae"
     subtitle: Sunrin High School 117th
-    imageUrl: "home/macat.jpeg"
+    imageUrl: "home/profile.jpeg"
     imageWidth: 280
     imageHeight: auto
     # buttons:
