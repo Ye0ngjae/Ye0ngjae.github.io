@@ -5,12 +5,12 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>TJCTF 2023 - Painter | msh1307</title>
+<title>TJCTF 2023 - Painter | Ye0ngjae</title>
 <meta name="keywords" content="TJCTF_2023, TJCTF_2023 Painter">
 <meta name="description" content="painter 유사 그림판 컨셉인듯 하다. Web Assembly 익스플로잇해서 admin bot의 쿠키 탈취가 목적이다. Wasm 취약점 분석은 처음 해봐서 생소했다. admin-bot.js 파일과 dockerfile, app.py, index.wasm 등이 주어진다.
 Analysis admin-bot.js import flag from &#39;./flag.txt&#39;; function sleep(time) { return new Promise(resolve =&gt; { setTimeout(resolve, time); }); } export default { id: &#39;painter&#39;, name: &#39;painter&#39;, urlRegex: /^https:\/\/painter\.tjc\.tf\//, timeout: 10000, handler: async (url, ctx) =&gt; { const page = await ctx.newPage(); await page.goto(&#39;https://painter.tjc.tf&#39;, { waitUntil: &#39;domcontentloaded&#39; }); await page.">
 <meta name="author" content="">
-<link rel="canonical" href="https://msh1307.kr/blog/tjctf_2023_painter/">
+<link rel="canonical" href="https://Ye0ngjae.github.io/blog/tjctf_2023_painter/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.min.d9c43e0c7cae3b38c51e79921ad3cf2685d9811a56593a817d9b57ac4fdebf2b.css" integrity="sha256-2cQ&#43;DHyuOzjFHnmSGtPPJoXZgRpWWTqBfZtXrE/evys=" rel="preload stylesheet" as="style">
 <script defer crossorigin="anonymous" src="/assets/js/highlight.min.b95bacdc39e37a332a9f883b1e78be4abc1fdca2bc1f2641f55e3cd3dabd4d61.js" integrity="sha256-uVus3DnjejMqn4g7Hni&#43;Srwf3KK8HyZB9V4809q9TWE="
     onload="hljs.initHighlightingOnLoad();"></script>
@@ -21,11 +21,11 @@ function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-BR89V2WEC0');
 </script>
-<link rel="icon" href="https://msh1307.kr/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="https://msh1307.kr/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://msh1307.kr/favicon-32x32.png">
-<link rel="apple-touch-icon" href="https://msh1307.kr/apple-touch-icon.png">
-<link rel="mask-icon" href="https://msh1307.kr/safari-pinned-tab.svg">
+<link rel="icon" href="https://Ye0ngjae.github.io/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://Ye0ngjae.github.io/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://Ye0ngjae.github.io/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://Ye0ngjae.github.io/apple-touch-icon.png">
+<link rel="mask-icon" href="https://Ye0ngjae.github.io/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
 <noscript>
@@ -68,7 +68,7 @@ gtag('config', 'G-BR89V2WEC0');
 <meta property="og:description" content="painter 유사 그림판 컨셉인듯 하다. Web Assembly 익스플로잇해서 admin bot의 쿠키 탈취가 목적이다. Wasm 취약점 분석은 처음 해봐서 생소했다. admin-bot.js 파일과 dockerfile, app.py, index.wasm 등이 주어진다.
 Analysis admin-bot.js import flag from &#39;./flag.txt&#39;; function sleep(time) { return new Promise(resolve =&gt; { setTimeout(resolve, time); }); } export default { id: &#39;painter&#39;, name: &#39;painter&#39;, urlRegex: /^https:\/\/painter\.tjc\.tf\//, timeout: 10000, handler: async (url, ctx) =&gt; { const page = await ctx.newPage(); await page.goto(&#39;https://painter.tjc.tf&#39;, { waitUntil: &#39;domcontentloaded&#39; }); await page." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://msh1307.kr/blog/tjctf_2023_painter/" /><meta property="article:section" content="blog" />
+<meta property="og:url" content="https://Ye0ngjae.github.io/blog/tjctf_2023_painter/" /><meta property="article:section" content="blog" />
 <meta property="article:published_time" content="2023-05-29T00:00:00&#43;00:00" />
 <meta property="article:modified_time" content="2023-05-29T00:00:00&#43;00:00" />
 
@@ -87,13 +87,13 @@ Analysis admin-bot.js import flag from &#39;./flag.txt&#39;; function sleep(time
       "@type": "ListItem",
       "position":  2 ,
       "name": "Blogs",
-      "item": "https://msh1307.kr/blog/"
+      "item": "https://Ye0ngjae.github.io/blog/"
     }, 
     {
       "@type": "ListItem",
       "position":  3 ,
       "name": "TJCTF 2023 - Painter",
-      "item": "https://msh1307.kr/blog/tjctf_2023_painter/"
+      "item": "https://Ye0ngjae.github.io/blog/tjctf_2023_painter/"
     }
   ]
 }
@@ -115,14 +115,14 @@ Analysis admin-bot.js import flag from &#39;./flag.txt&#39;; function sleep(time
   "dateModified": "2023-05-29T00:00:00Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://msh1307.kr/blog/tjctf_2023_painter/"
+    "@id": "https://Ye0ngjae.github.io/blog/tjctf_2023_painter/"
   },
   "publisher": {
     "@type": "Organization",
-    "name": "msh1307",
+    "name": "Ye0ngjae",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://msh1307.kr/favicon.ico"
+      "url": "https://Ye0ngjae.github.io/favicon.ico"
     }
   }
 }
@@ -152,7 +152,7 @@ Analysis admin-bot.js import flag from &#39;./flag.txt&#39;; function sleep(time
     </script>
     <nav class="nav">
         <div class="logo">
-            <a href="https://msh1307.kr" accesskey="h" title="msh1307 (Alt + H)">msh1307</a>
+            <a href="https://Ye0ngjae.github.io" accesskey="h" title="Ye0ngjae (Alt + H)">Ye0ngjae</a>
             <span class="logo-switches">
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
@@ -178,32 +178,32 @@ Analysis admin-bot.js import flag from &#39;./flag.txt&#39;; function sleep(time
         </div>
         <ul id="menu">
             <li>
-                <a href="https://msh1307.kr/" title="Home">
+                <a href="https://Ye0ngjae.github.io/" title="Home">
                     <span>Home</span>
                 </a>
             </li>
             <li>
-                <a href="https://msh1307.kr/blog" title="Blog">
+                <a href="https://Ye0ngjae.github.io/blog" title="Blog">
                     <span>Blog</span>
                 </a>
             </li>
             <li>
-                <a href="https://msh1307.kr/about" title="About">
+                <a href="https://Ye0ngjae.github.io/about" title="About">
                     <span>About</span>
                 </a>
             </li>
             <li>
-                <a href="https://msh1307.kr/search" title="Search (Alt &#43; /)" accesskey=/>
+                <a href="https://Ye0ngjae.github.io/search" title="Search (Alt &#43; /)" accesskey=/>
                     <span>Search</span>
                 </a>
             </li>
             <li>
-                <a href="https://msh1307.kr/categories" title="Categories">
+                <a href="https://Ye0ngjae.github.io/categories" title="Categories">
                     <span>Categories</span>
                 </a>
             </li>
             <li>
-                <a href="https://msh1307.kr/tags" title="Tags">
+                <a href="https://Ye0ngjae.github.io/tags" title="Tags">
                     <span>Tags</span>
                 </a>
             </li>
@@ -214,7 +214,7 @@ Analysis admin-bot.js import flag from &#39;./flag.txt&#39;; function sleep(time
 
 <article class="post-single">
   <header class="post-header">
-    <div class="breadcrumbs"><a href="https://msh1307.kr">Home</a>&nbsp;»&nbsp;<a href="https://msh1307.kr/blog/">Blogs</a></div>
+    <div class="breadcrumbs"><a href="https://Ye0ngjae.github.io">Home</a>&nbsp;»&nbsp;<a href="https://Ye0ngjae.github.io/blog/">Blogs</a></div>
     <h1 class="post-title">
       TJCTF 2023 - Painter
     </h1>
@@ -995,15 +995,15 @@ Updated every tick
 
   <footer class="post-footer">
     <ul class="post-tags">
-      <li><a href="https://msh1307.kr/tags/tjctf_2023/">TJCTF_2023</a></li>
-      <li><a href="https://msh1307.kr/tags/tjctf_2023-painter/">TJCTF_2023 Painter</a></li>
+      <li><a href="https://Ye0ngjae.github.io/tags/tjctf_2023/">TJCTF_2023</a></li>
+      <li><a href="https://Ye0ngjae.github.io/tags/tjctf_2023-painter/">TJCTF_2023 Painter</a></li>
     </ul>
   </footer>
 </article>
     </main>
     
 <footer class="footer">
-    <span>&copy; 2024 <a href="https://msh1307.kr">msh1307</a></span>
+    <span>&copy; 2024 <a href="https://Ye0ngjae.github.io">Ye0ngjae</a></span>
 </footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
