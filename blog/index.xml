@@ -6,15 +6,15 @@
     <description>Recent content in Blogs on Ye0ngjae</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ye0ngjae.blog/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ye0ngjae.blog/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>TJCTF 2023 - Painter</title>
+      <title>[알고리즘] 절대값 힙 파이썬 풀이</title>
       <link>https://ye0ngjae.blog/blog/tjctf_2023_painter/</link>
-      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>https://ye0ngjae.blog/blog/tjctf_2023_painter/</guid>
-      <description>painter 유사 그림판 컨셉인듯 하다. Web Assembly 익스플로잇해서 admin bot의 쿠키 탈취가 목적이다. Wasm 취약점 분석은 처음 해봐서 생소했다. admin-bot.js 파일과 dockerfile, app.py, index.wasm 등이 주어진다.
-Analysis admin-bot.js import flag from &amp;#39;./flag.txt&amp;#39;; function sleep(time) { return new Promise(resolve =&amp;gt; { setTimeout(resolve, time); }); } export default { id: &amp;#39;painter&amp;#39;, name: &amp;#39;painter&amp;#39;, urlRegex: /^https:\/\/painter\.tjc\.tf\//, timeout: 10000, handler: async (url, ctx) =&amp;gt; { const page = await ctx.newPage(); await page.goto(&amp;#39;https://painter.tjc.tf&amp;#39;, { waitUntil: &amp;#39;domcontentloaded&amp;#39; }); await page.</description>
+      <description>문제 절댓값 힙은 다음과 같은 연산을 지원하는 자료구조이다.
+배열에 정수 x (x ≠ 0)를 넣는다. 배열에서 절댓값이 가장 작은 값을 출력하고, 그 값을 배열에서 제거한다. 절댓값이 가장 작은 값이 여러개일 때는, 가장 작은 수를 출력하고, 그 값을 배열에서 제거한다. 프로그램은 처음에 비어있는 배열에서 시작하게 된다. 입력 첫째 줄에 연산의 개수 N(1≤N≤100,000)이 주어진다. 다음 N개의 줄에는 연산에 대한 정보를 나타내는 정수 x가 주어진다. 만약 x가 0이 아니라면 배열에 x라는 값을 넣는(추가하는) 연산이고, x가 0이라면 배열에서 절댓값이 가장 작은 값을 출력하고 그 값을 배열에서 제거하는 경우이다.</description>
     </item>
     
   </channel>

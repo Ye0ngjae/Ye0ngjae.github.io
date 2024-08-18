@@ -6,13 +6,22 @@
     <description>Recent content in Categories on Ye0ngjae</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ye0ngjae.blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ye0ngjae.blog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>CTF</title>
-      <link>https://ye0ngjae.blog/categories/ctf/</link>
-      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <title>Algorithm</title>
+      <link>https://ye0ngjae.blog/categories/algorithm/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://ye0ngjae.blog/categories/ctf/</guid>
+      <guid>https://ye0ngjae.blog/categories/algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://ye0ngjae.blog/categories/python/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ye0ngjae.blog/categories/python/</guid>
       <description></description>
     </item>
     
