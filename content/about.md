@@ -13,6 +13,7 @@ showToc: false
 - Sunrin Internet High School InfoSec 117th
 - Layer7 Hacking Club
 
+
 ## Activity
 ---
 - 서울여자대학교 정보보호영재교육원 8기(2021.03 ~ 2021.12)

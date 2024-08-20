@@ -55,8 +55,8 @@ params:
     imageWidth: 300
     imageHeight: auto
     buttons:
-       - name: Instagram
-         url: "https://www.instagram.com/ye0ngjae06/"
+       - name: Other Blog
+         url: "https://blog.ye0ngjae.com/"
 
   # List View
   hideDescriptionInList: false
