@@ -9,10 +9,10 @@
     <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ye0ngjae.blog/categories/database/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[SQL] DB에서의 사용자 권한 관리</title>
-      <link>https://ye0ngjae.blog/blog/2024-08-20-/</link>
+      <link>https://ye0ngjae.blog/blog/2024-08-20-db%EC%82%AC%EC%9A%A9%EC%9E%90%EA%B6%8C%ED%95%9C%EA%B4%80%EB%A6%AC/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://ye0ngjae.blog/blog/2024-08-20-/</guid>
+      <guid>https://ye0ngjae.blog/blog/2024-08-20-db%EC%82%AC%EC%9A%A9%EC%9E%90%EA%B6%8C%ED%95%9C%EA%B4%80%EB%A6%AC/</guid>
       <description>DB에서의 사용자 권한 관리 DB에서의 사용자 관리는 데이터베이스의 보안과 운영에 중요한 역할을 한다. 적절한 권한 관리를 통하여 데이터의 무결성을 유지하고, 불필요한 접근을 제한할 수 있다.
 DB를 처음 설치하고 접속할 경우 기본적으로 주어지는 계정은 root 계정이기 때문에, 이를 그대로 서비스 운영에 사용하는 것은 보안상 매우 위험한 선택이 될 수 있다. 따라서, 개발자는 서비스 별로 적절한 권한을 가진 사용자를 생성하여 사용하는 것이 보안적인 측면에서 바람직하다.
 사용자 생성 권한을 부여하기에 앞서 사용자를 생성해야 한다.</description>
