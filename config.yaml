@@ -1,7 +1,7 @@
 baseURL: "https://ye0ngjae.blog"
 languageCode: en-us
 title: Ye0ngjae
-theme: PaperMod
+theme: Stack
 
 taxonomies:
   category: categories
