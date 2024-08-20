@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ye0ngjae.blog/blog/2024-08-20-/</loc>
+    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ye0ngjae.blog/blog/2024-06-28-%EC%A0%88%EB%8C%80%EA%B0%92%ED%9E%99/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -26,7 +29,19 @@
     <loc>https://ye0ngjae.blog/categories/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ye0ngjae.blog/tags/database/</loc>
+    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ye0ngjae.blog/categories/database/</loc>
+    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ye0ngjae.blog/tags/greedy/</loc>
+    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ye0ngjae.blog/categories/mysql/</loc>
+    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ye0ngjae.blog/tags/privilege/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ye0ngjae.blog/tags/python/</loc>
@@ -41,7 +56,16 @@
     <loc>https://ye0ngjae.blog/tags/silver2/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ye0ngjae.blog/tags/sql/</loc>
+    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ye0ngjae.blog/categories/sql/</loc>
+    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ye0ngjae.blog/tags/</loc>
+    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ye0ngjae.blog/tags/user/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ye0ngjae.blog/</loc>
