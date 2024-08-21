@@ -17,6 +17,7 @@ categories: ["Architecture", "Software Architecture", "Design Pattern"]
 ---
 # MVC 아키텍처
 ---
+![MVC Architecture](/img/MVC-Architecture/MVC-Architecture.jpg)
 MVC (Model-View-Controller)는 사용자 인터페이스를 개발할 때 자주 사용되는 디자인 패턴으로, 애플리케이션을 세 가지 상호 연결된 컴포넌트로 나눈다.
 
 ## 모델 (Model)
