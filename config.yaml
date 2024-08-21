@@ -46,7 +46,12 @@ params:
   # Share
   ShowShareButtons: true
   ShareButtons: [
-    "reddit"
+    "reddit",
+    "twitter",
+    "facebook",
+    "linkedin",
+    "whatsapp",
+    "telegram"
   ]
 
   # for enchanced SEO
