@@ -6,11 +6,23 @@
     <description>Recent content in Software Architecture on Ye0ngjae</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ye0ngjae.blog/categories/software-architecture/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ye0ngjae.blog/categories/software-architecture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Architecture] MVC Architecture</title>
+      <link>https://ye0ngjae.blog/blog/2024-08-21-mvcarchitecture/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ye0ngjae.blog/blog/2024-08-21-mvcarchitecture/</guid>
+      <description>MVC 아키텍처 MVC (Model-View-Controller)는 사용자 인터페이스를 개발할 때 자주 사용되는 디자인 패턴으로, 애플리케이션을 세 가지 상호 연결된 컴포넌트로 나눈다.
+모델 (Model) 모델 컴포넌트는 사용자가 작업하는 모든 데이터 관련 로직에 해당한다. 이는 뷰와 컨트롤러 컴포넌트 간에 전송되는 데이터나 기타 비즈니스 로직 관련 데이터를 나타낼 수 있다.
+예시: 고객 객체는 데이터베이스에서 고객 정보를 검색하고, 이를 조작하여 다시 데이터베이스에 업데이트하거나 데이터를 렌더링하는 데 사용한다.
+뷰 (View) 뷰 컴포넌트는 애플리케이션의 모든 UI 로직에 사용된다. 이는 모델에 포함된 데이터의 시각화를 나타낸다.</description>
+    </item>
+    
     <item>
       <title>[Architecture] Layered &amp; Multitier Architecture</title>
       <link>https://ye0ngjae.blog/blog/2024-08-20-ntierarchitecture/</link>
-      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
       
       <guid>https://ye0ngjae.blog/blog/2024-08-20-ntierarchitecture/</guid>
       <description>Layered Architecture 소프트웨어 시스템을 여러 계층으로 나누어 구성하는 아키텍처 스타일이다. 3 계층 구조(3 Tier Architecture)가 대표적이며, 표현 계층, 애플리케이션 계층, 데이터 계층으로 나뉜다.시스템의 모듈화와 유지 보수성을 높이기 위해 사용된다.

@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ye0ngjae.blog/blog/2024-08-21-mvcarchitecture/</loc>
+    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ye0ngjae.blog/blog/2024-08-20-ntierarchitecture/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ye0ngjae.blog/blog/2024-08-20-db%EC%82%AC%EC%9A%A9%EC%9E%90%EA%B6%8C%ED%95%9C%EA%B4%80%EB%A6%AC/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
@@ -14,25 +17,55 @@
     <loc>https://ye0ngjae.blog/blog/2024-06-28-%ED%9A%8C%EC%9D%98%EC%8B%A4%EB%B0%B0%EC%A0%95/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ye0ngjae.blog/tags/architecture/</loc>
+    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ye0ngjae.blog/categories/architecture/</loc>
+    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ye0ngjae.blog/blog/</loc>
+    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ye0ngjae.blog/categories/</loc>
+    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ye0ngjae.blog/tags/design-pattern/</loc>
+    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ye0ngjae.blog/categories/design-pattern/</loc>
+    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ye0ngjae.blog/tags/model-view-controller/</loc>
+    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ye0ngjae.blog/tags/mvc-architecture/</loc>
+    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ye0ngjae.blog/categories/software-architecture/</loc>
+    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ye0ngjae.blog/tags/</loc>
+    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ye0ngjae.blog/</loc>
+    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ye0ngjae.blog/tags/layered-architecture/</loc>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ye0ngjae.blog/tags/multitier-architecture/</loc>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ye0ngjae.blog/tags/n-tier-architecture/</loc>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ye0ngjae.blog/tags/algorithm/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ye0ngjae.blog/categories/algorithm/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ye0ngjae.blog/tags/architecture/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ye0ngjae.blog/categories/architecture/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ye0ngjae.blog/tags/baekjoon/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ye0ngjae.blog/blog/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ye0ngjae.blog/categories/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ye0ngjae.blog/tags/database/</loc>
@@ -41,22 +74,10 @@
     <loc>https://ye0ngjae.blog/categories/database/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ye0ngjae.blog/categories/design-pattern/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ye0ngjae.blog/tags/greedy/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ye0ngjae.blog/tags/layered-architecture/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ye0ngjae.blog/tags/multitier-architecture/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ye0ngjae.blog/categories/mysql/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ye0ngjae.blog/tags/n-tier-architecture/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ye0ngjae.blog/tags/privilege/</loc>
@@ -74,22 +95,13 @@
     <loc>https://ye0ngjae.blog/tags/silver2/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ye0ngjae.blog/categories/software-architecture/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ye0ngjae.blog/tags/sql/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ye0ngjae.blog/categories/sql/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ye0ngjae.blog/tags/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ye0ngjae.blog/tags/user/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ye0ngjae.blog/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ye0ngjae.blog/about/</loc>
