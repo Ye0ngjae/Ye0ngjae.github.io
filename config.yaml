@@ -40,8 +40,14 @@ params:
   showToc: true
   TocOpen: false
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   hideMeta: false
+
+  # Share
+  ShowShareButtons: true
+  ShareButtons: [
+    "reddit"
+  ]
 
   # for enchanced SEO
   env: production
