@@ -10,7 +10,7 @@ tags:
     "N-tier Architecture"
   ]
 weight: 30
-date: 2024-06-28
+date: 2024-08-20
 categories: ["Architecture", "Software Architecture", "Design Pattern"]
 # cover:
     # image: ""
@@ -20,7 +20,7 @@ categories: ["Architecture", "Software Architecture", "Design Pattern"]
 소프트웨어 시스템을 여러 계층으로 나누어 구성하는 아키텍처 스타일이다. 3 계층 구조(3 Tier Architecture)가 대표적이며, 표현 계층, 애플리케이션 계층, 데이터 계층으로 나뉜다.시스템의 모듈화와 유지 보수성을 높이기 위해 사용된다. 
 
 ## 3 계층 구조의 구성 요소
-![3계층 구조](/static/blog/N-Tier-Architecture/architecture.jpg)
+![3계층 구조](../../static/blog/N-Tier-Architecture/architecture.jpg)
 
 - 표현 계층(Presentation Layer)
     - 사용자와 직접 상호 작용하는 계층으로, 사용자 인터페이스를 담당한다.
