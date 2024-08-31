@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OS on Ye0ngjae</title>
+    <link>https://ye0ngjae.blog/categories/os/</link>
+    <description>Recent content in OS on Ye0ngjae</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ye0ngjae.blog/categories/os/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[OS] 프로세스(Process) 관리</title>
+      <link>https://ye0ngjae.blog/blog/2024-06-31-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EA%B4%80%EB%A6%AC/</link>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ye0ngjae.blog/blog/2024-06-31-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EA%B4%80%EB%A6%AC/</guid>
+      <description>프로그램(Program) 컴퓨터에서 실행될 때 특정 작업을 수행하는 일련의 명령어들의 집합이다. 특정 문제를 해결하기 위해 처리 방법과 순서를 기술하여 컴퓨터에 입력되는 일련의 명령문 집합체이며 대부분의 프로그램은 실행 중(즉, 명령어를 &amp;lsquo;불러들일&amp;rsquo; 때)에 사용자의 입력에 반응하도록 구현된 일련의 명령어들로 구성되어 있다. 대부분의 프로그램들은 하드디스크 등의 매체에 바이너리 형식의 파일로 저장되어 있다가 사용자가 실행시키면 메모리로 적재되어 실행된다.
+프로세스(Process) 컴퓨터에서 실행 중인 프로그램으로써 메모리 상에서 실행되는 작업 단위를 지칭한다. 각 프로세스 별로 독립된 메모리 공간을 할당 받으며, Code, Data, Heap, Stack 구조로 이루어져있다.</description>
+    </item>
+    
+  </channel>
+</rss>
