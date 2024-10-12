@@ -23,6 +23,7 @@ showToc: false
 ## Award
 ---
 > **2024**
+> - 2024 POSCO AI Youth Challenge 장려상
 > - 2024 D-Camp 청소년 창업경진대회 최우수상
 
 > **2023**
