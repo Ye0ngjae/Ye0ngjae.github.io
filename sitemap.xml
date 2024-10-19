@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ye0ngjae.blog/blog/2024-10-13-typescript-%EB%8F%99%EA%B8%B0-%EB%B9%84%EB%8F%99%EA%B8%B0/</loc>
+    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ye0ngjae.blog/blog/2024-06-31-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EA%B4%80%EB%A6%AC/</loc>
     <lastmod>2024-08-31T00:00:00+00:00</lastmod>
   </url><url>
@@ -15,10 +18,40 @@
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ye0ngjae.blog/blog/</loc>
-    <lastmod>2024-08-31T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ye0ngjae.blog/tags/callback/</loc>
+    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ye0ngjae.blog/categories/</loc>
-    <lastmod>2024-08-31T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ye0ngjae.blog/tags/javascript/</loc>
+    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ye0ngjae.blog/categories/javascript/</loc>
+    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ye0ngjae.blog/tags/promise/</loc>
+    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ye0ngjae.blog/tags/</loc>
+    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ye0ngjae.blog/tags/typescript/</loc>
+    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ye0ngjae.blog/categories/typescript/</loc>
+    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ye0ngjae.blog/</loc>
+    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ye0ngjae.blog/tags/%EB%8F%99%EA%B8%B0/</loc>
+    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ye0ngjae.blog/tags/%EB%B9%84%EB%8F%99%EA%B8%B0/</loc>
+    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ye0ngjae.blog/tags/context-switching/</loc>
     <lastmod>2024-08-31T00:00:00+00:00</lastmod>
@@ -33,12 +66,6 @@
     <lastmod>2024-08-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ye0ngjae.blog/tags/process-control-block/</loc>
-    <lastmod>2024-08-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ye0ngjae.blog/tags/</loc>
-    <lastmod>2024-08-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ye0ngjae.blog/</loc>
     <lastmod>2024-08-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ye0ngjae.blog/tags/architecture/</loc>
@@ -93,6 +120,8 @@
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ye0ngjae.blog/about/</loc>
+  </url><url>
+    <loc>https://ye0ngjae.blog/tags/async/await/</loc>
   </url><url>
     <loc>https://ye0ngjae.blog/search/</loc>
   </url><url>

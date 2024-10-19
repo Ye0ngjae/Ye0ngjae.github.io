@@ -6,7 +6,61 @@
     <description>Recent content in Tags on Ye0ngjae</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ye0ngjae.blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ye0ngjae.blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Callback</title>
+      <link>https://ye0ngjae.blog/tags/callback/</link>
+      <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ye0ngjae.blog/tags/callback/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>https://ye0ngjae.blog/tags/javascript/</link>
+      <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ye0ngjae.blog/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Promise</title>
+      <link>https://ye0ngjae.blog/tags/promise/</link>
+      <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ye0ngjae.blog/tags/promise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Typescript</title>
+      <link>https://ye0ngjae.blog/tags/typescript/</link>
+      <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ye0ngjae.blog/tags/typescript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>동기</title>
+      <link>https://ye0ngjae.blog/tags/%EB%8F%99%EA%B8%B0/</link>
+      <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ye0ngjae.blog/tags/%EB%8F%99%EA%B8%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>비동기</title>
+      <link>https://ye0ngjae.blog/tags/%EB%B9%84%EB%8F%99%EA%B8%B0/</link>
+      <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ye0ngjae.blog/tags/%EB%B9%84%EB%8F%99%EA%B8%B0/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Context Switching</title>
       <link>https://ye0ngjae.blog/tags/context-switching/</link>
@@ -139,6 +193,15 @@
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>https://ye0ngjae.blog/tags/user/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Async/Await</title>
+      <link>https://ye0ngjae.blog/tags/async/await/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ye0ngjae.blog/tags/async/await/</guid>
       <description></description>
     </item>
     
